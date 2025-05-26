@@ -1,8 +1,0 @@
-mkdir data
-mkdir notebooks
-touch data/.gitkeep
-touch notebooks/.gitkeep
-
-git add .
-git commit -m "add folders data and notebooks"
-git push origin main
